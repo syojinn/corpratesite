@@ -1,0 +1,80 @@
+* {
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+.top-img {
+    background-image: url(../images/img01.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.top-text {
+    text-align: center;
+    padding: 250px 0px;
+}
+.top-text h1 {
+    font-size: 100px;
+    font-family: 'Dancing Script', cursive;
+}
+nav h3 {
+    font-family: 'Dancing Script', cursive;
+    color: black;
+}
+nav i {
+    color: #888;
+}
+.night-sky {
+    background-image: url(../images/fix-bg.jpg);
+    background-size: cover;
+    padding: 200px 0px;
+    text-align: center;
+    background-attachment: fixed;
+
+}
+.night-sky h2 {
+    font-size: 80px;
+    font-family: 'Dancing Script', cursive;
+    margin-bottom: 40px;
+}
+.service-list  {
+    background-color: black;
+    text-align: center;
+    padding: 50px;
+}
+.service-list h2 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 80px;
+}
+.service-discription {
+    padding: 30px;
+}
+.info {
+    border: solid 2px white;
+    margin: 20px;
+    padding: 20px;
+}
+.info p {
+    padding-top: 10px;
+}
+footer {
+    background-color: darkgray;
+}
+ul {
+    padding-top: 20px;
+}
+li {
+    list-style: none;
+    padding-top: 15px;
+    font-size: 13px;
+    color: #333;
+}
+a {
+    text-decoration: none;
+}
+footer ul a:hover {
+    color: white;
+    text-decoration: none;
+}
+footer p {
+    text-align: right;
+}
