@@ -1,1 +1,1 @@
-# corpratesite
+# corporatesite
